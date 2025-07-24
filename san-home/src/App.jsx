@@ -9,7 +9,7 @@ import {
 import "./App.css";
 import Footer from "./components/footer/Footer";
 import Header from "./components/header/Header";
-import Home from "./page/Home";
+import { Home } from "./page/Home"; 
 import Information from "./page/Information";
 import MyProject from "./page/MyProject";
 const Layout = () => {
